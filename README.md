@@ -36,3 +36,4 @@ To get sql type configuration, run the following command:
 make sql > pgtune.sql
 ```
 
+
