@@ -26,6 +26,11 @@ cd pgtune
 
 **Remember to change the values of `CPU`, `RAM`, `TYPE`, `CONNECTIONS` and `HARD_DRIVE` in the file `params.env` before running command**
 
+To preview the configuration, run the following command:
+```console
+make conf
+```
+
 To get conf type configuration, run the following command:
 ```console
 make conf > pgtune.conf
