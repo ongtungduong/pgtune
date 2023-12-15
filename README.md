@@ -24,7 +24,7 @@ cd pgtune
 
 ## How to use
 
-**Remember to change the values of `CPU`, `RAM`, `TYPE`, `CONNECTIONS` and `HARD_DRIVE` in the file `params.conf` before running command**
+**Remember to change the values of `CPU`, `RAM`, `TYPE`, `CONNECTIONS` and `HARD_DRIVE` in the file `params.env` before running command**
 
 To get conf type configuration, run the following command:
 ```console
